@@ -14,6 +14,7 @@
     font-weight: 700;
     line-height: 20px;
 }
+/* do margin space on right of images, exclude the last one */
 .status-bar__icons img:not(:last-child){
-    margin-right: 10px;
+    margin-right: 5px;
 }
