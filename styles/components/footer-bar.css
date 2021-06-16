@@ -1,7 +1,14 @@
 .footer-bar{
     position: absolute;
-    width: 375px;
-    height: 43px;
-    left: 0px;
-    bottom: 0px;
+    width: 121px;
+    height: 15px;
+    left: 127px;
+    bottom: 14px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+    color: rgba(47, 47, 47, 0.5);
 }
