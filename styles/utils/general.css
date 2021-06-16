@@ -1,7 +1,8 @@
 body{
-    background-color: black;
+    background-color: #fff;
 }
-p,h1,h2,h3,span,strong{
-    color: white;
-    font-family: "Roboto", Arial, Helvetica, sans-serif;
+p,h1,h2,h3,h4,{
+    color: #2F2F2F;
+    font-family: "Inter", Arial, Helvetica, sans-serif;
+    padding-bottom: 24px;
 }
