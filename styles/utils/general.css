@@ -6,3 +6,45 @@ p,h1,h2,h3,h4,{
     font-family: "Inter", Arial, Helvetica, sans-serif;
     padding-bottom: 24px;
 }
+.heading-01{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+}
+.heading-02{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+}
+.heading-03{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+}
+.heading-04{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+}
+.Paragraph-01{
+    font-family: Inter;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+}
+.Paragraph-02{
+    font-family: Inter;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 20px;
+}

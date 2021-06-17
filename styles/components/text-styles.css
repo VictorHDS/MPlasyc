@@ -1,78 +1,12 @@
-.heading-01{
+#PlaylistRecent{
     position: absolute;
-    width: 106px;
-    height: 27px;
-    left: 15px;
-    top: 214px;
-
-    font-family: Inter;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 22px;
-    line-height: 27px;
-}
-.heading-02{
-    position: absolute;
-    width: 90px;
+    width: 157px;
     height: 22px;
-    left: 15px;
-    top: 265px;
-
+    left: 12px;
+    top: 207px;
     font-family: Inter;
     font-style: normal;
     font-weight: bold;
     font-size: 18px;
     line-height: 22px;
-}
-.heading-03{
-    position: absolute;
-    width: 80px;
-    height: 19px;
-    left: 15px;
-    top: 311px;
-
-    font-family: Inter;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 16px;
-    line-height: 19px;
-}
-.heading-04{
-    position: absolute;
-    width: 70px;
-    height: 17px;
-    left: 15px;
-    top: 354px;
-
-    font-family: Inter;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 14px;
-    line-height: 17px;
-}
-.Paragraph-01{
-    position: absolute;
-    width: 348px;
-    height: 100px;
-    left: 15px;
-    top: 395px;
-
-    font-family: Inter;
-    font-style: italic;
-    font-weight: bold;
-    font-size: 14px;
-    line-height: 20px;
-}
-.Paragraph-02{
-    position: absolute;
-    width: 348px;
-    height: 80px;
-    left: 15px;
-    top: 519px;
-
-    font-family: Inter;
-    font-style: italic;
-    font-weight: bold;
-    font-size: 12px;
-    line-height: 20px;
 }
