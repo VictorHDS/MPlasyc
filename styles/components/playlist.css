@@ -1,0 +1,71 @@
+.current-album{
+    display: flex;
+}
+.playlist{
+    display: flex;
+    align-items: center;
+    width: 90%;
+    height: 50px;
+    margin: 0 auto;
+}
+.playlist__text{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+}
+.title{
+    color: #2F2F2F;
+}
+.time{
+    color: rgba(47, 47, 47, 0.6);
+}
+.playlist__background-02{
+    width: 375px;
+    background-color: #F2F2F2;
+}
+.playlist__background-04{
+    width: 375px;
+    background-color: #4285F4;
+}
+.current-song{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 351px;
+    height: 76px;
+    left: 12px;
+    top: 710px;
+    border-radius: 9px;
+    background: #1F1F1F;
+}
+.current-song__title{
+    width: 90px;
+    height: 17px;
+    left: 34px;
+    top: 727px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+.current-song__subtitle{
+    width: 136px;
+    height: 17px;
+    left: 34px;
+    top: 750px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: rgba(255, 255, 255, 0.6);
+}

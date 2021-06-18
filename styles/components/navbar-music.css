@@ -9,3 +9,10 @@
     height: 180px;
     width: 351px;
 }
+.navbar__music{
+    display: flex;
+    height: 146px;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+}
