@@ -1,12 +1,14 @@
 .header-bar{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: flex-end;
     width: 90%;
     height: 48px;
     margin:0 auto;
-    font-family: Inter;
-    font-style: normal;
+}
+.header-bar__text{
+    margin-left: 16px;
+    margin-right: 167px;
     font-weight: bold;
     font-size: 16px;
     line-height: 19px;
